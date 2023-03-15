@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hithishini</h1>
-<h3 align="center">Full stack enthusiast</h3>
+<h3 align="center"> A Full stack enthusiast</h3>
  
 
 ---
